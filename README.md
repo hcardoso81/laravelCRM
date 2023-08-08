@@ -10,3 +10,8 @@
 -   composer require laravel/ui
 -   php artisan ui react --auth
 -   add system verify email
+
+## Add template AdminLTE
+
+-   https://www.youtube.com/watch?v=4S9pZ73NWos&list=PLDYiB4l8VPZbRlDBXZgAOxTNkCPIe4D6R&index=4
+-   https://github.com/ColorlibHQ/AdminLTE/releases
