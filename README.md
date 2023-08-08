@@ -19,3 +19,15 @@
 ## Add customize login and register
 
 -   https://www.youtube.com/watch?v=6BJDkEggw4Y&list=PLDYiB4l8VPZbRlDBXZgAOxTNkCPIe4D6R&index=5
+
+## Add schema database and migrations
+
+-   https://www.youtube.com/watch?v=3Z_50wHRK08&list=PLDYiB4l8VPZbRlDBXZgAOxTNkCPIe4D6R&index=6
+-   add soft deletes to table users
+-   create table Clients: php artisan make:model Client -m
+-   create table Projects: php artisan make:model Project -m
+-   create table Tasks: php artisan make:model Task -m
+-   modify migrations(add fields) and models. Add fields fillables and softDeletes
+-   create seed UserSeeder: php artisan make:seed UserSeeder
+-   modify databaseSeeder
+-   run migrations: php artisan migrate:fresh --seed
