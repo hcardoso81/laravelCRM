@@ -38,6 +38,13 @@
                         <p>Tareas</p>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link"
+                        onclick="event.preventDefault(); document.getElementById('logoutform').submit();">
+                        <i class="fas fa-fw fa-sign-out-alt nav-icon"></i>
+                        <p>Cerrar Sesion</p>
+                    </a>
+                </li>
             </ul>
         </nav>
     </div>
