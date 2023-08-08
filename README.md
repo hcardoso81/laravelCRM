@@ -31,3 +31,8 @@
 -   create seed UserSeeder: php artisan make:seed UserSeeder
 -   modify databaseSeeder
 -   run migrations: php artisan migrate:fresh --seed
+
+## Add Relations to Models
+
+-   https://www.youtube.com/watch?v=AcnvGYZ0Kpc&list=PLDYiB4l8VPZbRlDBXZgAOxTNkCPIe4D6R&index=7
+-   Model Project: add relations belongsTo (User and Client)
