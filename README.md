@@ -15,3 +15,7 @@
 
 -   https://www.youtube.com/watch?v=4S9pZ73NWos&list=PLDYiB4l8VPZbRlDBXZgAOxTNkCPIe4D6R&index=4
 -   https://github.com/ColorlibHQ/AdminLTE/releases
+
+## Add customize login and register
+
+-   https://www.youtube.com/watch?v=6BJDkEggw4Y&list=PLDYiB4l8VPZbRlDBXZgAOxTNkCPIe4D6R&index=5
